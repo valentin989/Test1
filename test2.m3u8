@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="p1" tvg-name="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png"Sport",Prima Sport 1
+#EXTINF:-1 tvg-id="p1" tvg-name="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png"Sport",Prima 1
 https://p13.magicplaces.eu/primasport1hd/video.m3u8?token=e497fab3c76589c22bba904ab19b0d8f24292f6a-38785011c638f1b7d4fa95c57f99ccc1-1756133615-1756122815&remote=no_check_ip
 #EXTINF:-1 tvg-id="PrimaSport2" tvg-name="Prima Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png"Sport",Prima Sport 2
 https://p13.magicplaces.eu/primasport2sd/video.m3u8?token=ea7b885442076808700dba45450bd20b1fb956ab-87ec036df6994d2d7d5b68da4d1ee1bb-1756134438-1756123638&remote=no_check_ip
@@ -143,6 +143,7 @@ https://p11.magicplaces.eu/etnotvsd/video.m3u8?token=ce0781546e8909d1cce7033e58b
 https://p11.magicplaces.eu/balkanmusicsd/video.m3u8?token=c85541626317b1c7b045b09359a34291f5a4f585-3b30c344790abd844f18e2b5a66cf871-1756136689-1756125889&remote=no_check_ip 
 #EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
 https://p11.magicplaces.eu/atomictvsd/video.m3u8?token=20595fc80be19c24fe43c982e3f15b17efe305bb-1e46a4cb0a9545fc87ca7043fc3aa326-1756136714-1756125914&remote=no_check_ip
+
 
 
 

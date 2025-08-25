@@ -143,6 +143,8 @@ https://p11.magicplaces.eu/etnotvsd/video.m3u8?token=ce0781546e8909d1cce7033e58b
 https://p11.magicplaces.eu/balkanmusicsd/video.m3u8?token=c85541626317b1c7b045b09359a34291f5a4f585-3b30c344790abd844f18e2b5a66cf871-1756136689-1756125889&remote=no_check_ip 
 #EXTINF:-1 tvg-id="Atomic TV" tvg-name="Atomic TV" 
 https://p11.magicplaces.eu/atomictvsd/video.m3u8?token=20595fc80be19c24fe43c982e3f15b17efe305bb-1e46a4cb0a9545fc87ca7043fc3aa326-1756136714-1756125914&remote=no_check_ip
+#EXTINF:-1 tvg-id="Balkan Music" tvg-name="Balkan Music" 
+https://p11.magicplaces.eu/balkanmusicsd/video.m3u8?token=c85541626317b1c7b045b09359a34291f5a4f585-3b30c344790abd844f18e2b5a66cf871-1756136689-1756125889&remote=no_check_ip 
 
 
 

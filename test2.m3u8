@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="p1" tvg-name="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png"Sport",Prima Sport 1
+https://p13.magicplaces.eu/primasport1hd/video.m3u8?token=e497fab3c76589c22bba904ab19b0d8f24292f6a-38785011c638f1b7d4fa95c57f99ccc1-1756133615-1756122815&remote=no_check_ip
+#EXTINF:-1 tvg-id="PrimaSport2" tvg-name="Prima Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png"Sport",Prima Sport 2
+https://p13.magicplaces.eu/primasport2sd/video.m3u8?token=ea7b885442076808700dba45450bd20b1fb956ab-87ec036df6994d2d7d5b68da4d1ee1bb-1756134438-1756123638&remote=no_check_ip
+#EXTINF:-1 tvg-id="PrimaSport3" tvg-name="Prima Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png" group-title="Sport",Prima Sport 3
+https://p13.magicplaces.eu/primasport3sd/video.m3u8?token=38a22797282871352d475133212ebc6966aa5e4e-887121beb46036b524b5ec332070a4f8-1756134726-1756123926&remote=no_check_ip
+#EXTINF:-1 tvg-id="DigiSport 1 HD" tvg-name="Digi Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/DIGI_Sport_1.png" group-title="Sport",Digi Sport 1
+https://p13.magicplaces.eu/digisport1hd/index.m3u8?token=7969100c3a1ba5a0096328a76955f7d93241e85b-b500e7340289671be4c3d3f928172eab-1756134892-1756124092&remote=no_check_ip
+#EXTINF:-1 tvg-id="DigiSport 2 HD" tvg-name="Digi Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/DIGI_Sport_2.png" group-title="Sport",Digi Sport 2
+https://p13.magicplaces.eu/digisport2hd/video.m3u8?token=2c32ff92322539ac2083f16e43fd99ce5b310f5d-652be424357988f32755537ac246d75e-1756134952-1756124152&remote=no_check_ip 
+#EXTINF:-1 tvg-id="DigiSport 3 HD" tvg-name="Digi Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/DIGI_Sport_3.svg" group-title="Sport",Digi Sport 3
+https://p13.magicplaces.eu/digisport3hd/video.m3u8?token=bf8283b32c71a0111ecce87a98c40d46e09554ce-084d8ac9e11dc779395b1c3b4bb6e392-1756134991-1756124191&remote=no_check_ip 
+#EXTINF:-1 tvg-id="DigiSport 4 HD" tvg-name="Digi Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/DIGI_Sport_4.svg" group-title="Sport",Digi Sport 4
+https://p13.magicplaces.eu/digisport4hd/video.m3u8?token=58f7abfaa1d913465742fa3ef1d1110e5093e640-bc6a2e15c541012c6d2a70a95f50d854-1756135041-1756124241&remote=no_check_ip
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/TVR Sport.svg" group-title="Sport",TVR Sport
+https://p11.magicplaces.eu/tvrsport/video.m3u8?token=cda87951956091a6bbe2dc9c6bf79ef61e7f0d95-7c5f1c03b2cd63f7ba0c85c348be0cef-1756135097-1756124297&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/sportextrahd/video.m3u8?token=04442403b7a65e2f77a3be57dae3b7599922f2e6-352a707aeadde3bf1203b3059051354a-1756135134-1756124334&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/eurosportsd/video.m3u8?token=5c8e96b7d5d9126aaeb9bdefdef22a7daa0d22ab-ab7d36ac24d954b614498082620b1b34-1756135183-1756124383&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/eurosport2sd/video.m3u8?token=3aa2194fc2014b03446e1b59f492349694010c1f-7884295f830724f4c7ccb83246d6e01e-1756135228-1756124428&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p13.magicplaces.eu/proarenahd/video.m3u8?token=ab0759459ced8d2d5aef93d7fc82bfb9ef50b8bd-1c6a8ae56d41dfd8691384f7d107c856-1756135254-1756124454&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/antena1/index.m3u8?token=07199a652480b64258c987ceb7ee6f80304121d4-ff3060ad7a2845b9243739fc2e5c8b87-1756135330-1756124530&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/antena1/index.m3u8?token=07199a652480b64258c987ceb7ee6f80304121d4-ff3060ad7a2845b9243739fc2e5c8b87-1756135330-1756124530&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p9.magicplaces.eu/protvhd/video.m3u8?token=06e90ce8678980b1ec2f0a5d23a5cf735e0036bc-86cb47747682a89965e5371d59686e2f-1756135391-1756124591&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p9.magicplaces.eu/protvhd/video.m3u8?token=06e90ce8678980b1ec2f0a5d23a5cf735e0036bc-86cb47747682a89965e5371d59686e2f-1756135391-1756124591&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/kanald/video.m3u8?token=7a20c4f4623afb300dedc33c93ecc624017e173e-8d95881880d1f7b1d79f6c8ca9edf5a9-1756135448-1756124648&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/prima/video.m3u8?token=48c8e998110f9f813398f6f536056388eb27a474-b705b63f673ba83ae5320fc30ce637df-1756135471-1756124671&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/tvr1hd/video.m3u8?token=2ee8aa2fdd9d062dd9e0cc3609c21e3ebd7eb6ff-0b6eb3aac14329f50f86f3028369fe1c-1756135514-1756124714&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/tvr2sd/video.m3u8?token=91752bf601df21bd9c1a6e5812bbed7131177779-6f4d2dcf773067852382da5ac4a9efe7-1756135536-1756124736&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/tvr3sd/video.m3u8?token=5c2805a18182046893d79cc260e1838586c762f0-ec14ddc9cf9cf75ad5189e6d881d67fc-1756135558-1756124758&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/hbohd/video.m3u8?token=a0fdb4756c746234ab5560c2073d331f01adcef9-e57378b3e7b553ba525d0bad11a358b4-1756135584-1756124784&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/hbo2sd/video.m3u8?token=888a486487fa7435760a2f7f6d8887aa1efdd601-14c0dc4ae650f4ba837d4c0c5368d228-1756135607-1756124807&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/hbo3sd/video.m3u8?token=e9600b44778ffab1bd881e7c8c61a7300f673a56-96a1a78f376271c7595b561086e68679-1756135627-1756124827&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/cinemaxhd/video.m3u8?token=c7da39c671a0e9bc0263bd6792fe59342d4bdf08-da327443274a86552b2e52eb1c36e9d2-1756135649-1756124849&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/cinemax2sd/video.m3u8?token=9818b5836adadb50c2ba4b4df37048dcf78cd5fd-abdf37f4d4191f0d233ddb921312d41f-1756135672-1756124872&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/bollywoodtv/video.m3u8?token=ccbc323a7c606cfe22d504059b04a5eca35aea4f-d56c73e80f04f801aa61c51518e6f101-1756135701-1756124901&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/cinemaratonsd/video.m3u8?token=a9f8f3e30fa32f9a8d36ce2c9586500863c3225e-bf49effa823ae9eeb3a30cb613716a7a-1756135723-1756124923&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/diva/video.m3u8?token=5c93f554b8b89a2466ca4a79d28af12f525cf51a-987555b2518f0aafa0cf1b2b7d6b4a79-1756135749-1756124949&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/epicdramasd/video.m3u8?token=b3661b476e71dde0d466ed5c3ce9c2c8b127a186-e24e29b06218507bfc627db95bdc3b01-1756135776-1756124976&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/filmcafesd/video.m3u8?token=b1bd4643901df555bbe4775fa02e17de946308c9-10514046d52e9e561f1f7d8e5ea85b4c-1756135800-1756125000&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p13.magicplaces.eu/filmnow/video.m3u8?token=7690068a8656d08465f4725e4a3b47d8cea4f791-a29ca258eb3e8fad07fc29474ad75e1b-1756135820-1756125020&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/primacomedysd/video.m3u8?token=be498557274040314d4390328b31c40497eeed1b-78517287d9538f24ed7697f26c93cb33-1756135842-1756125042&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/procinemasd/video.m3u8?token=bbb76ca93d741b8d13dbe637ba659781a0badf77-37beae02f5c2be5197ebb15585aa32e3-1756135863-1756125063&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/warner/video.m3u8?token=7d6608aacb7280e915283e141d39fa42b4eb9cd6-7cb0209e9b5408a0c3c7bc71cb76a4c0-1756135884-1756125084&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/amcsd/video.m3u8?token=8ebdd75a8ff5e65e78d66ea66a7ca400bceed20a-7756fa3990af5a9e25e44e7de3b1ed5b-1756135904-1756125104&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/comedycentralsd/video.m3u8?token=53ab5817463151e5369b11f85bf41aa8e616f72e-14a4eb3ef9484b8d37fbc5dd7c7a6309-1756135929-1756125129&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/acasagold/video.m3u8?token=b41a91e20e3942f9596de35d58ce869a34aa5bc4-9516debd820153dc369d2989db635f66-1756135952-1756125152&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/acasahd/video.m3u8?token=28721d515f52c188743faf3d181e2c2f1937a92b-ee288d2f65c22d5ed2b2005e4b181826-1756135977-1756125177&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/kanald2hd/video.m3u8?token=dfcc13373e6b83575d240b3fe6d00b5f2ae1c2d4-19b0e2dd599c3fa513c2704fb765c251-1756135999-1756125199&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/happychannelsd/index.m3u8?token=3da583a6f6fff0afad16afaece4cf32180811768-ffc71d340ccd14c9252c96af6659dcf7-1756136022-1756125222&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/metropolatvsd/video.m3u8?token=34b9bb7486a181db99fcb6070aa531e23c9771f6-56e839c858e2579095b7c50b1e1ffd80-1756136044-1756125244&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/nationaltvsd/video.m3u8?token=e045799761d48fa9902ac2cf24703f161d922f8b-93da6d75e08b65bd6228175f5d739c5c-1756136065-1756125265&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/national24sd/video.m3u8?token=202cf34f5ce5fcbc4ffe8f523087a9bdc8518752-87df3121aef1f8634bfac660114628dd-1756136085-1756125285&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/ncnsd/video.m3u8?token=6bfe2b83370ea57b241b6e56b2a87377c6a8d98c-d5fe1f59ea6fcd3f96c8566e82c78764-1756136108-1756125308&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p13.magicplaces.eu/proarenahd/video.m3u8?token=2acce6ca51364c2508e7ebbe8a70eab91a3dafd3-68702aa9306286a7ae66c066cdeba332-1756136129-1756125329&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p13.magicplaces.eu/proarenahd/video.m3u8?token=2acce6ca51364c2508e7ebbe8a70eab91a3dafd3-68702aa9306286a7ae66c066cdeba332-1756136129-1756125329&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p13.magicplaces.eu/antenastarssd/video.m3u8?token=6e00d656d65e4a6921e993f1162d70d67dd236eb-e04853c7d45d87415dbd2348695d8a42-1756136183-1756125383&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p13.magicplaces.eu/antena3hd/video.m3u8?token=24a81acef60d37a92a6a050e69b1202597cf9b22-44416abab62ebe7dc8e1e2d5cd3ebd7e-1756136211-1756125411&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/b1/video.m3u8?token=b1fc3cf653d4577a4f4764fd15694c2dba26bcfc-73caaee5087f436ab823558eeb9ef5af-1756136231-1756125431&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/bbcworldnewssd/video.m3u8?token=0e21f0517188ee41464189de79c71c43570c877c-36a966235593e00d888727106ba80c49-1756136252-1756125452&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/cnnsd/video.m3u8?token=f1a03c15286e1dcfffc6486f8e8130807588af86-d7dd4a792c74d97c5858ba64473ed785-1756136272-1756125472&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p13.magicplaces.eu/digi24/video.m3u8?token=9341294eda3999945646d5ac70b9b4b090089555-200fd1ef45f234676bd154c8cd12336e-1756136293-1756125493&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p13.magicplaces.eu/euronewsrosd/video.m3u8?token=44b800fb390e90dc95169e157a17be49fcee2ced-398a2ebe8d0f84ca34c1bedbfcf6b3f5-1756136314-1756125514&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/primanewssd/video.m3u8?token=09b18eb15ee131c78bbbd8c2855214f1dd6e03bb-13efcf8390f6eaa3164950bfaba55460-1756136334-1756125534&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/realitateaplussd/video.m3u8?token=0db453c8d5388b47ae5fb9e93e8a55df2dfd1877-5876e4a0f2c4384bf560d9b6cf6aaa76-1756136360-1756125560&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/romaniatvsd/video.m3u8?token=bf0be559824d4ced23027b0cde9b7693e47c9abd-3c9d441fed10c5c76306e7eb8f14e439-1756136379-1756125579&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/zutvsd/video.m3u8?token=2f7dda224c66ba00f047d5c59db28d2e26222372-2c2a386fa747aa78ed591fa5ae1e0080-1756136399-1756125599&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p13.magicplaces.eu/utv/video.m3u8?token=c16402cfc69aa15f584219df25c630b82dd33346-650dfc6b46c77f55dd39491947e9cdbd-1756136419-1756125619&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/favorittvsd/video.m3u8?token=784588d5de777e680b3d8264caa451e56c3957be-1d601c00fe741fb275c5e158d204e6d4-1756136451-1756125651&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/traditionaltvsd/video.m3u8?token=68effb64a8fc43b03dcce63ad4a75c164d8fad20-0f70c90fdc1b3489d07aef376d74e53a-1756136471-1756125671&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/taraftvsd/video.m3u8?token=08702e32339248d557d42cbac2bcc3125385e166-d6044257736c54cdc7d3262ad8a21741-1756136491-1756125691&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/partymixsd/video.m3u8?token=c5f9937e55e4e82ed213d2ea98de654dfadcf33b-6f38485f0c4456ea1758363edaa6843d-1756136510-1756125710&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p13.magicplaces.eu/musicchannelro/index.m3u8?token=f4cafbe1e9a3d6bfeea2b14b3afdbe5f59b0ed36-39205b5cec9bf2f6180576dbd3dcc554-1756136530-1756125730&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/mtv00sd/video.m3u8?token=1491661081f97743c32e2bff935a0df5a0abe34a-783a16253e59144ef689fa4be6c90c1d-1756136562-1756125762&remote=no_check_ip
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/mtveuropesd/video.m3u8?token=1e4e8ec8c44b731f19754b00f7819768567e0be4-8b0487b44c2deeb835c9cf0502c26a55-1756136584-1756125784&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/magictv/video.m3u8?token=5445cf29a9be66f019005462e5a25516178697bf-d288a88228fb60be65bac4b5672e2652-1756136604-1756125804&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/kisstv/video.m3u8?token=58839f9006ab2c189b56457eb3a8e0139266e178-d33c8e96858f3aaf2e0e5f065bcf6bd2-1756136624-1756125824&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/hitmusic/index.m3u8?token=6a21b0a8bc226e6e246dada34c6a2ae381304303-62871f7d35a45857aa637d61b69669b3-1756136646-1756125846&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/etnotvsd/video.m3u8?token=ce0781546e8909d1cce7033e58bc541b7ca8c784-cf5735a29997157adbccc1fa11045822-1756136666-1756125866&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/balkanmusicsd/video.m3u8?token=c85541626317b1c7b045b09359a34291f5a4f585-3b30c344790abd844f18e2b5a66cf871-1756136689-1756125889&remote=no_check_ip 
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" 
+https://p11.magicplaces.eu/atomictvsd/video.m3u8?token=20595fc80be19c24fe43c982e3f15b17efe305bb-1e46a4cb0a9545fc87ca7043fc3aa326-1756136714-1756125914&remote=no_check_ip
+
+
+
